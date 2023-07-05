@@ -26,3 +26,14 @@ In the classification project, Albumentations and PyTorch are used to enhance mo
 
 <center><img src="https://i.imgur.com/cUtr14i.png"/></center>
 
+---
+## Industrial Projects
+
+---
+### Lead Computer System and Network Administrator
+ 
+* **Infrastructure Planning and Strategy Lead**: Develops and executes strategic plans for computer systems and network infrastructure, aligning them with business goals and future growth.
+* **Technical Project Manager**: Oversees the planning, coordination, and successful execution of complex projects related to computer systems and network administration, ensuring timely delivery and adherence to quality standards.
+* **Performance Optimization Specialist**: Analyzes and enhances the performance of computer systems and network infrastructure, identifying bottlenecks, implementing optimizations, and ensuring optimal resource utilization.
+* **Change Management Coordinator**: Manages the planning, communication, and execution of changes to computer systems and network infrastructure,  minimizing disruptions and ensuring seamless transitions.
+* **Vendor and Contract Manager**: Manages relationships with vendors and oversees contract negotiations for hardware, software, and service procurement related to computer systems and network administration, ensuring cost-effectiveness and adherence to contractual agreements.
