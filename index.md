@@ -16,3 +16,12 @@ The following sections present Ph.D. course projects on machine learning, image 
 <center><img src="https://replicate.delivery/pbxt/Lp0mSeS28I0KfUpVvTQgLDG8Tp1jO6j2eyu3ZUlrbIu2wIGiA/out.png"/></center>
 
 
+### PyTorch and Albumentations for image classification
+---
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aztofighi/Image_Augmentation)  [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/github/aztofighi/Image_Augmentation/blob/main/Image_Augmentation_Using_Albumentations_for_Classification_Example_1.ipynb)
+
+
+In the classification project, Albumentations and PyTorch are used to enhance model performance. Albumentations provides powerful image augmentation, while PyTorch serves as the framework for model development and training. The project aims to achieve accurate classification results across different domains.
+
+<center><img src="https://i.imgur.com/cUtr14i.png"/></center>
+
