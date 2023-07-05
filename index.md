@@ -5,7 +5,7 @@ Azadeh Tofighi is a **Computer Science Ph.D. student at the [University of Tehra
 ---
 ## Academic Projects
 
-The following sections contain the implementation and documentation of Ph.D. course projects.
+The following sections present Ph.D. course projects on machine learning, image processing, and their implementation and documentation. These projects utilize advanced algorithms and methodologies to tackle complex challenges. The implementation involves developing and deploying models and algorithms, while the documentation captures the project's objectives, methods, results, and conclusions. These projects contribute to the advancement of knowledge in these fields.
 
 ### Persian Handwritten Digit Recognition Using Deep Neural Networks (ResNet-50)
 ---
