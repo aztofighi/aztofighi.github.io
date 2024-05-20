@@ -1,6 +1,6 @@
 ## About Azadeh
 ---
-Azadeh Tofighi is a **M.Sc.** specializing in **IT Managment**. She is passionate about Machine Learning, Data Science, Computer Vision, and NLP research. Azadeh also has 20 years of industry experience as a **IT Manager [Iran Dairy Industries Co](https://pegahexport.com/)**. 
+Azadeh Tofighi has a **M.Sc.** specializing in **IT Project Management**. She is passionate about Machine Learning, Data Science, Computer Vision, and NLP research. Azadeh also has 20 years of industry experience as an **IT Manager**. 
 
 [![](https://img.shields.io/badge/LinkedIn-Connect%20with%20Azadeh-blue?logo=LinkedIn&style=social)](https://www.linkedin.com/in/aztofighi/)
 
