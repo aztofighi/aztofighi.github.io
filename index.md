@@ -1,8 +1,53 @@
 ## About Azadeh
 ---
-Azadeh Tofighi is a **Computer Science Ph.D. student at the [University of Tehran](https://ut.ac.ir/en)**, specializing in **Artificial Intelligence**. She is passionate about Machine Learning, Data Science, Computer Vision, and NLP research. Azadeh also has 20 years of industry experience as a **Lead Computer System and Network Administrator at [Iran Dairy Industries Co](https://pegahexport.com/)**. 
+Azadeh Tofighi is a **M.Sc.** specializing in **IT Managment**. She is passionate about Machine Learning, Data Science, Computer Vision, and NLP research. Azadeh also has 20 years of industry experience as a **IT Manager [Iran Dairy Industries Co](https://pegahexport.com/)**. 
 
 [![](https://img.shields.io/badge/LinkedIn-Connect%20with%20Azadeh-blue?logo=LinkedIn&style=social)](https://www.linkedin.com/in/aztofighi/)
+
+---
+## Job Experience
+#### **[York University](https://www.yorku.ca/)** 	
+#### Research Assistant
+Toronto, Canada                                                                                                                               December 2023 to  May 2024                                                                                                                    
+Implementation of Microsoft Teams EOC (Enterprise Operating Center) Framework                                                                                                
+Developing Custom Forms for Emergency-Specific Tasks
+
+#### Sazeh Pardazan Pars Inc.					       	                                                                                                           Isfahan, Iran
+#### Construction Estimator                                                                                                                  December 2020 to November 2023  
+Construction Estimator  “176-unit  housing” for Eskan Saman Golpa Cooperative  
+Construction Estimator “120-unit  housing” for Golpayegan Sabz Cooperative
+Construction Estimator “32-unit  housing” for Mehrava Cooperative
+Reviewed drawings, specifications, and any additional documents to determine the scope of work
+Conducted site visits, prepared quantity take-offs and bill of quantity
+Forwarded invitations to sub-contractors and reviewed quotes to ensure full coverage of divisional scopes
+Planned and prepared construction schedules and milestones
+Acquiring necessary goods or services for the company's operations.
+Strategically sourcing suppliers to optimize value and efficiency
+Formalizing agreements with vendors to ensure clarity and compliance                                                                                
+#### Tehran Pegah Pasteurized Milk Co.                                                                                                                   Tehran, Iran
+The biggest company in Iran Dairy the [Iran Dairy Industries Co.(IDIC)
+**[Iran Dairy Industries Co](https://pegahexport.com/)**              
+**[Iran Dairy Industries Co.(IDIC)](https://www.linkedin.com/company/iran-dairy-industries-company-idic-pegah/).** is the greatest dairy producer in Iran with the "PEGAH"​ brand. It is one of the biggest dairy companies in the Middle East.
+#### Senior IT Specialist 		
+Design, develop, test, implement, and oversee IT systems
+Collect and analyze data to identify areas for improvement within an organization's IT Infrastructure and Business Intelligence.
+Review existing IT systems and database and internal processes
+Develop, implement, and apply policies and procedures throughout the software development life cycle to maximize efficiency
+Develop, design, and improve new and existing systems
+Designing information system reports according to user needs
+Resolving user system issues remotely and on-site
+Educating coworkers about best practices for computer usage.
+
+#### Pegah Golpayegan Pasteurized Milk Co.					       	                                                                                             Golpayegan, Iran
+#### Supervisor and Manager of the Information Technology Department  from September 2003  to August 2018
+Supervisor of Information Technology Department and Manager of Information Technology
+Network Monitoring Management, Software, and Network Security Project Management
+Review and Design of Business Intelligence and Artificial Intelligence-based Systems, Smart Software Development
+Management of Physical and Virtual Servers, Database Management
+Assessment of necessary hardware and software requirements, installation, and setup
+Support and upgrade of information systems, hardware, computer networks, and servers
+Engineering, design and development of software, data aggregation
+Establishing information security, and management of access levels, design and update of applied reports of information systems
 
 ---
 ## Academic Projects
@@ -28,14 +73,4 @@ In the classification project, Albumentations and PyTorch are used to enhance mo
 
 <center><img src="https://i.imgur.com/cUtr14i.png"/></center>
 
----
-## Industrial Projects
 
----
-### Lead Computer System and Network Administrator
- 
-* **Infrastructure Planning and Strategy Lead**: Develops and executes strategic plans for computer systems and network infrastructure, aligning them with business goals and future growth.
-* **Technical Project Manager**: Oversees the planning, coordination, and successful execution of complex projects related to computer systems and network administration, ensuring timely delivery and adherence to quality standards.
-* **Performance Optimization Specialist**: Analyzes and enhances the performance of computer systems and network infrastructure, identifying bottlenecks, implementing optimizations, and ensuring optimal resource utilization.
-* **Change Management Coordinator**: Manages the planning, communication, and execution of changes to computer systems and network infrastructure,  minimizing disruptions and ensuring seamless transitions.
-* **Vendor and Contract Manager**: Manages relationships with vendors and oversees contract negotiations for hardware, software, and service procurement related to computer systems and network administration, ensuring cost-effectiveness and adherence to contractual agreements.
