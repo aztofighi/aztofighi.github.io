@@ -8,21 +8,21 @@ Azadeh Tofighi has an **M.Sc.** specializing in **IT Project Management**. She i
 ## Job Experience
 ### **[York University](https://www.yorku.ca/)**, Toronto, Canada 	
 #### Research Assistant, December 2023 to  May 2024                                                                                                                    
-Implementation of Microsoft Teams EOC (Emergency Operating Center) Framework                                                                                                
-Developing Custom Forms for Emergency-Specific Tasks
++ Implementation of Microsoft Teams EOC (Emergency Operating Center) Framework                                                                                                
++ Developing Custom Forms for Emergency-Specific Tasks
 
 ### Sazeh Pardazan Pars Inc. Isfahan, Iran					       	                                                                                                          
 #### Construction Estimator, December 2020 to November 2023  
-Construction Estimator  “176-unit  housing” for Eskan Saman Golpa Cooperative  
-Construction Estimator “120-unit  housing” for Golpayegan Sabz Cooperative
-Construction Estimator “32-unit  housing” for Mehrava Cooperative
-Reviewed drawings, specifications, and any additional documents to determine the scope of work
-Conducted site visits, prepared quantity take-offs and bills of quantity
-Forwarded invitations to sub-contractors and reviewed quotes to ensure full coverage of divisional scopes
-Planned and prepared construction schedules and milestones
-Acquiring necessary goods or services for the company's operations.
-Strategically sourcing suppliers to optimize value and efficiency
-Formalizing agreements with vendors to ensure clarity and compliance   
++ Construction Estimator  “176-unit  housing” for Eskan Saman Golpa Cooperative  
++ Construction Estimator “120-unit  housing” for Golpayegan Sabz Cooperative
++ Construction Estimator “32-unit  housing” for Mehrava Cooperative
++ Reviewed drawings, specifications, and any additional documents to determine the scope of work
++ Conducted site visits, prepared quantity take-offs and bills of quantity
++ Forwarded invitations to sub-contractors and reviewed quotes to ensure full coverage of divisional scopes
++ Planned and prepared construction schedules and milestones
++ Acquiring necessary goods or services for the company's operations.
++ Strategically sourcing suppliers to optimize value and efficiency
++ Formalizing agreements with vendors to ensure clarity and compliance   
 
 ### Tehran Pegah Pasteurized Milk Co.Tehran, Iran
 The biggest company in Iran Dairy is the Iran Dairy Industries Co.(IDIC)
@@ -30,25 +30,25 @@ The biggest company in Iran Dairy is the Iran Dairy Industries Co.(IDIC)
 **[Iran Dairy Industries Co.(IDIC)](https://www.linkedin.com/company/iran-dairy-industries-company-idic-pegah/).** is the greatest dairy producer in Iran with the "PEGAH"​ brand. It is one of the biggest dairy companies in the Middle East.
 
 #### Senior IT Specialist 		
-Design, develop, test, implement, and oversee IT systems
-Collect and analyze data to identify areas for improvement within an organization's IT Infrastructure and Business Intelligence.
-Review existing IT systems and database and internal processes
-Develop, implement, and apply policies and procedures throughout the software development life cycle to maximize efficiency
-Develop, design, and improve new and existing systems
-Designing information system reports according to user needs
-Resolving user system issues remotely and on-site
-Educating coworkers about best practices for computer usage.
++ Design, develop, test, implement, and oversee IT systems
++ Collect and analyze data to identify areas for improvement within an organization's IT Infrastructure and Business Intelligence.
++ Review existing IT systems and database and internal processes
++ Develop, implement, and apply policies and procedures throughout the software development life cycle to maximize efficiency
++ Develop, design, and improve new and existing systems
++ Designing information system reports according to user needs
++ Resolving user system issues remotely and on-site
++ Educating coworkers about best practices for computer usage.
 
 ### Pegah Golpayegan Pasteurized Milk Co. Golpayegan, Iran
 #### Supervisor and Manager of the Information Technology Department  from September 2003  to August 2018
-Supervisor of Information Technology Department and Manager of Information Technology
-Network Monitoring Management, Software, and Network Security Project Management
-Review and Design of Business Intelligence and Artificial Intelligence-based Systems, Smart Software Development
-Management of Physical and Virtual Servers, Database Management
-Assessment of necessary hardware and software requirements, installation, and setup
-Support and upgrade of information systems, hardware, computer networks, and servers
-Engineering, design, and development of software, data aggregation
-Establishing information security, and management of access levels, design, and update of applied reports of information systems
++ Supervisor of Information Technology Department and Manager of Information Technology
++ Network Monitoring Management, Software, and Network Security Project Management
++ Review and Design of Business Intelligence and Artificial Intelligence-based Systems, Smart Software Development
++ Management of Physical and Virtual Servers, Database Management
++ Assessment of necessary hardware and software requirements, installation, and setup
++ Support and upgrade of information systems, hardware, computer networks, and servers
++ Engineering, design, and development of software, data aggregation
++ Establishing information security, and management of access levels, design, and update of applied reports of information systems
 
 ---
 ## Academic Projects
