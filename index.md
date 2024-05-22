@@ -1,17 +1,17 @@
 ## About Azadeh
 ---
-Azadeh Tofighi has a **M.Sc.** specializing in **IT Project Management**. She is passionate about Machine Learning, Data Science, Computer Vision, and NLP research. Azadeh also has 18 years of industry experience as an **IT Manager**. 
+Azadeh Tofighi has an **M.Sc.** specializing in **IT Project Management**. She is passionate about Machine Learning, Data Science, Computer Vision, and NLP research. Azadeh also has 18 years of industry experience as an **IT Project Manager**. 
 
 [![](https://img.shields.io/badge/LinkedIn-Connect%20with%20Azadeh-blue?logo=LinkedIn&style=social)](https://www.linkedin.com/in/aztofighi/)
 
 ---
 ## Job Experience
-#### **[York University](https://www.yorku.ca/)** Toronto, Canada 	
+### **[York University](https://www.yorku.ca/)**, Toronto, Canada 	
 #### Research Assistant, December 2023 to  May 2024                                                                                                                    
-Implementation of Microsoft Teams EOC (Enterprise Operating Center) Framework                                                                                                
+Implementation of Microsoft Teams EOC (Emergency Operating Center) Framework                                                                                                
 Developing Custom Forms for Emergency-Specific Tasks
 
-#### Sazeh Pardazan Pars Inc. Isfahan, Iran					       	                                                                                                          
+### Sazeh Pardazan Pars Inc. Isfahan, Iran					       	                                                                                                          
 #### Construction Estimator, December 2020 to November 2023  
 Construction Estimator  “176-unit  housing” for Eskan Saman Golpa Cooperative  
 Construction Estimator “120-unit  housing” for Golpayegan Sabz Cooperative
@@ -22,11 +22,13 @@ Forwarded invitations to sub-contractors and reviewed quotes to ensure full cove
 Planned and prepared construction schedules and milestones
 Acquiring necessary goods or services for the company's operations.
 Strategically sourcing suppliers to optimize value and efficiency
-Formalizing agreements with vendors to ensure clarity and compliance                                                                                
-#### Tehran Pegah Pasteurized Milk Co.Tehran, Iran
-The biggest company in Iran Dairy is the [Iran Dairy Industries Co.(IDIC)
+Formalizing agreements with vendors to ensure clarity and compliance   
+
+### Tehran Pegah Pasteurized Milk Co.Tehran, Iran
+The biggest company in Iran Dairy is the Iran Dairy Industries Co.(IDIC)
 **[Iran Dairy Industries Co](https://pegahexport.com/)**              
 **[Iran Dairy Industries Co.(IDIC)](https://www.linkedin.com/company/iran-dairy-industries-company-idic-pegah/).** is the greatest dairy producer in Iran with the "PEGAH"​ brand. It is one of the biggest dairy companies in the Middle East.
+
 #### Senior IT Specialist 		
 Design, develop, test, implement, and oversee IT systems
 Collect and analyze data to identify areas for improvement within an organization's IT Infrastructure and Business Intelligence.
@@ -37,7 +39,7 @@ Designing information system reports according to user needs
 Resolving user system issues remotely and on-site
 Educating coworkers about best practices for computer usage.
 
-#### Pegah Golpayegan Pasteurized Milk Co. Golpayegan, Iran
+### Pegah Golpayegan Pasteurized Milk Co. Golpayegan, Iran
 #### Supervisor and Manager of the Information Technology Department  from September 2003  to August 2018
 Supervisor of Information Technology Department and Manager of Information Technology
 Network Monitoring Management, Software, and Network Security Project Management
