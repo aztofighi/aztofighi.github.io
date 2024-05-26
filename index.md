@@ -6,13 +6,16 @@ Azadeh Tofighi has an **M.Sc.** specializing in **IT Project Management**. She i
 
 ---
 ## Job Experience
+---
 ### **[York University](https://www.yorku.ca/)**, Toronto, Canada 	
-#### Research Assistant, December 2023 to  May 2024                                                                                                                    
+#### Research Assistant, December 2023 to  May 2024  
+
 + Implementation of Microsoft Teams EOC (Emergency Operating Center) Framework                                                                                               
 + Developing Custom Forms for Emergency-Specific Tasks
  
 ### Sina Media Lab Inc.  (Hybrid)                                                                                                                        Toronto, Canada
-#### Research Scientist                                                                                                                                 December 2018 to present
+#### Research Scientist                                                                                                                              December 2018 to present
+
 + Cloud Platform Management with experience in Microsoft Azure Management                                                                                                    
 + Data Analytics and Dashboard Development    
 + IT project management
@@ -20,6 +23,7 @@ Azadeh Tofighi has an **M.Sc.** specializing in **IT Project Management**. She i
 
 ### Sazeh Pardazan Pars Inc. Isfahan, Iran					       	                                                                                                          
 #### Construction Estimator, December 2020 to November 2023  
+
 + Construction Estimator  “176-unit  housing” for Eskan Saman Golpa Cooperative  
 + Construction Estimator “120-unit  housing” for Golpayegan Sabz Cooperative
 + Construction Estimator “32-unit  housing” for Mehrava Cooperative
@@ -36,6 +40,7 @@ The biggest company in Iran Dairy is the Iran Dairy Industries Co.(IDIC)
 **[Iran Dairy Industries Co.(IDIC)](https://www.linkedin.com/company/iran-dairy-industries-company-idic-pegah/).** is the greatest dairy producer in Iran with the "PEGAH"​ brand. It is one of the biggest dairy companies in the Middle East.
 
 #### Senior IT Specialist 		
+
 + Design, develop, test, implement, and oversee IT systems
 + Collect and analyze data to identify areas for improvement within an organization's IT Infrastructure and Business Intelligence.
 + Review existing IT systems and database and internal processes
@@ -47,7 +52,7 @@ The biggest company in Iran Dairy is the Iran Dairy Industries Co.(IDIC)
 
 ### Pegah Golpayegan Pasteurized Milk Co. Golpayegan, Iran
 #### Supervisor and Manager of the Information Technology Department  from September 2003  to August 2018
-+ Supervisor of Information Technology Department and Manager of Information Technology
+
 + Network Monitoring Management, Software, and Network Security Project Management
 + Review and Design of Business Intelligence and Artificial Intelligence-based Systems, Smart Software Development
 + Management of Physical and Virtual Servers, Database Management
