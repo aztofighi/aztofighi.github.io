@@ -8,8 +8,15 @@ Azadeh Tofighi has an **M.Sc.** specializing in **IT Project Management**. She i
 ## Job Experience
 ### **[York University](https://www.yorku.ca/)**, Toronto, Canada 	
 #### Research Assistant, December 2023 to  May 2024                                                                                                                    
-+ Implementation of Microsoft Teams EOC (Emergency Operating Center) Framework                                                                                                
++ Implementation of Microsoft Teams EOC (Emergency Operating Center) Framework                                                                                               
 + Developing Custom Forms for Emergency-Specific Tasks
+ 
+### Sina Media Lab Inc.  (Hybrid)                                                                                                                        Toronto, Canada
+#### Research Scientist                                                                                                                                 December 2018 to present
++ Cloud Platform Management with experience in Microsoft Azure Management                                                                                                    
++ Data Analytics and Dashboard Development    
++ IT project management
++ IT support including Network Troubleshooting System Administration and Customer Service    
 
 ### Sazeh Pardazan Pars Inc. Isfahan, Iran					       	                                                                                                          
 #### Construction Estimator, December 2020 to November 2023  
@@ -25,8 +32,7 @@ Azadeh Tofighi has an **M.Sc.** specializing in **IT Project Management**. She i
 + Formalizing agreements with vendors to ensure clarity and compliance   
 
 ### Tehran Pegah Pasteurized Milk Co.Tehran, Iran
-The biggest company in Iran Dairy is the Iran Dairy Industries Co.(IDIC)
-**[Iran Dairy Industries Co](https://pegahexport.com/)**              
+The biggest company in Iran Dairy is the Iran Dairy Industries Co.(IDIC)     
 **[Iran Dairy Industries Co.(IDIC)](https://www.linkedin.com/company/iran-dairy-industries-company-idic-pegah/).** is the greatest dairy producer in Iran with the "PEGAH"​ brand. It is one of the biggest dairy companies in the Middle East.
 
 #### Senior IT Specialist 		
